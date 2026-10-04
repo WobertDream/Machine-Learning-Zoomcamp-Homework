@@ -4,6 +4,7 @@ This repository contains my code for assignments and projects for the **Machine 
 This repository is organised by week/module
 
 * **`01-intro/`** - Homework 1: Introduction to Machine Learning
+* **`02-regression/`** - Homework 2: Car price prediction project
 
 ## Module Contents
 
@@ -13,6 +14,14 @@ This repository is organised by week/module
   * Introduction to Pandas
   * Linear Algebra Basics
   * Machine Learning concepts (supervised learning, model selection, crisp-dm etc)
+
+### Module 2: Car Price Prediction Project
+* **Topics Covered:**
+  * Linear Regression (simple, vector, training)
+  * Feature Engineering
+  * Regularisation
+  * Model Tuning
+  * Validation Framework
 
 ## Learning Log
 This repo serves as a means to track my progress as well as a summary of machine learning projects that I have completed throughout the course
