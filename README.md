@@ -15,7 +15,7 @@ This repository is organised by week/module
   * Linear Algebra Basics
   * Machine Learning concepts (supervised learning, model selection, crisp-dm etc)
 
-### Module 2: Car Price Prediction Project
+### Module 2: Machine Learning for Regression
 * **Topics Covered:**
   * Linear Regression (simple, vector, training)
   * Feature Engineering
