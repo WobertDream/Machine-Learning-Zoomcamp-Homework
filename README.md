@@ -4,7 +4,7 @@ This repository contains my code for assignments and projects for the **Machine 
 This repository is organised by week/module
 
 * **`01-intro/`** - Homework 1: Introduction to Machine Learning
-* **`02-regression/`** - Homework 2: Car price prediction project
+* **`02-regression/`** - Homework 2: Machine Learning for Regression
 
 ## Module Contents
 
