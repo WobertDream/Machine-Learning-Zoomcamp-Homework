@@ -5,6 +5,7 @@ This repository is organised by week/module
 
 * **`01-intro/`** - Homework 1: Introduction to Machine Learning
 * **`02-regression/`** - Homework 2: Machine Learning for Regression
+* **`03-classification`** - Homework 3: Machine Learning for Classification
 
 ## Module Contents
 
@@ -22,6 +23,13 @@ This repository is organised by week/module
   * Regularisation
   * Model Tuning
   * Validation Framework
+
+### Module 3: Machine Learning for Classification
+* **Topics Covered:**
+  * Logistic Regression (training, intepretation)
+  * One-hot encoding
+  * Mutual Information and Risk Ratio
+  * Correlation
 
 ## Learning Log
 This repo serves as a means to track my progress as well as a summary of machine learning projects that I have completed throughout the course
