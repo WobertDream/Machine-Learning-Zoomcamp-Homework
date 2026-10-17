@@ -5,8 +5,8 @@ This repository is organised by week/module
 
 * **`01-intro/`** - Homework 1: Introduction to Machine Learning
 * **`02-regression/`** - Homework 2: Machine Learning for Regression
-* **`03-classification`** - Homework 3: Machine Learning for Classification
-* **`04-evaluation`** - Homework 4: Evaluation Metrics for Classification
+* **`03-classification/`** - Homework 3: Machine Learning for Classification
+* **`04-evaluation/`** - Homework 4: Evaluation Metrics for Classification
 
 ## Module Contents
 
