@@ -6,6 +6,7 @@ This repository is organised by week/module
 * **`01-intro/`** - Homework 1: Introduction to Machine Learning
 * **`02-regression/`** - Homework 2: Machine Learning for Regression
 * **`03-classification`** - Homework 3: Machine Learning for Classification
+* **`04-evaluation`** - Homework 4: Evaluation Metrics for Classification
 
 ## Module Contents
 
@@ -30,6 +31,13 @@ This repository is organised by week/module
   * One-hot encoding
   * Mutual Information and Risk Ratio
   * Correlation
+
+### Module 4: Evaluation Metrics for Classification
+* **Topics Covered:**
+  * Accuracy, Precision and Recall
+  * Confusion Table Analysis
+  * ROC Curves and AUC score
+  * Cross-Validation
 
 ## Learning Log
 This repo serves as a means to track my progress as well as a summary of machine learning projects that I have completed throughout the course
