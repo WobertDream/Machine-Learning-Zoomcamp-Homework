@@ -7,6 +7,7 @@ This repository is organised by week/module
 * **`02-regression/`** - Homework 2: Machine Learning for Regression
 * **`03-classification/`** - Homework 3: Machine Learning for Classification
 * **`04-evaluation/`** - Homework 4: Evaluation Metrics for Classification
+* **`05-deployment`** - Homework 5: Deployment of Models
 
 ## Module Contents
 
@@ -39,5 +40,11 @@ This repository is organised by week/module
   * ROC Curves and AUC score
   * Cross-Validation
 
+### Module 5: Deployment of Machine Learning Models
+* **Topics Covered:**
+  * Utilizing Pickle to save and load models
+  * Operationalizing Web Services using FastAPI and uvicorn
+  * Application Containerization with Docker
+ 
 ## Learning Log
 This repo serves as a means to track my progress as well as a summary of machine learning projects that I have completed throughout the course
