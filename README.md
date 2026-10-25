@@ -8,6 +8,7 @@ This repository is organised by week/module
 * **`03-classification/`** - Homework 3: Machine Learning for Classification
 * **`04-evaluation/`** - Homework 4: Evaluation Metrics for Classification
 * **`05-deployment`** - Homework 5: Deployment of Models
+* **`06-trees`** - Homework 6: Decision Trees and Ensemble Learning
 
 ## Module Contents
 
@@ -45,6 +46,12 @@ This repository is organised by week/module
   * Utilizing Pickle to save and load models
   * Operationalizing Web Services using FastAPI and uvicorn
   * Application Containerization with Docker
+
+### Module 6: Decision Trees and Ensemble Learning
+* **Topics Covered:**
+  * Decision Tree Learning and Tuning
+  * Random Forest Classification and Regression
+  * XGBoost Parameter Tuning
  
 ## Learning Log
 This repo serves as a means to track my progress as well as a summary of machine learning projects that I have completed throughout the course
